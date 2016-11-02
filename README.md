@@ -1,5 +1,5 @@
 # mountain-story
-[NaNoGenMo 2016 entry](/NaNoGenMo/2016/issues/74)
+[NaNoGenMo 2016 entry](https://www.github.com/NaNoGenMo/2016/issues/74)
 
 ## Overview
 I'm going to take generated mountains and generate some kind of story about people climbing them.
